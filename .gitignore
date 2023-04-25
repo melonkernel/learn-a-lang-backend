@@ -1,4 +1,6 @@
 .DS_Store
+out/
+queue/
 .env
 .flaskenv
 *.pyc
